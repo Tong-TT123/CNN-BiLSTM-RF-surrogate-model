@@ -3,7 +3,7 @@ Source code for CFD-based surrogate modeling of capsizing moment prediction usin
 This repository provides the MATLAB implementation and example dataset for the proposed CNN-BiLSTM-RF surrogate model for capsizing moment prediction of coupled shiplift systems.
 The complete dataset and MATLAB workspace files are available through the Zenodo repository.
 Zenodo DOI:
-(Available after dataset publication)
+(10.5281/zenodo.21547145)
 # Repository Contents
 The repository contains:
 CNN-BiLSTM-RF.m
@@ -67,7 +67,7 @@ Run:CNN-BiLSTM-RF.m
 3. Run the main MATLAB script:CNN-BiLSTM-RF.m
 # Citation
 Dataset DOI:
-(Available after Zenodo publication)
+(10.5281/zenodo.21547145)
 # Contact
 Yang Zhang
 Institute of Engineering and Technology, Hubei University of Science and Technology
