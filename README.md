@@ -1,4 +1,4 @@
-# C-BL-R-surrogate-model
+# CNN-BiLSTM-RF Surrogate Model for Capsizing Moment Prediction of Coupled Shiplift Systems
 Source code for CFD-based surrogate modeling of capsizing moment prediction using CNN-BiLSTM-RF 
 This repository provides the MATLAB implementation and example dataset for the proposed CNN-BiLSTM-RF surrogate model for capsizing moment prediction of coupled shiplift systems.
 The proposed model combines convolutional neural network (CNN), bidirectional long short-term memory network (BiLSTM), and random forest (RF) to establish an efficient data-driven surrogate model for nonlinear dynamic response prediction.
